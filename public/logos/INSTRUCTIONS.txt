@@ -1,0 +1,20 @@
+LOGO PLACEMENT INSTRUCTIONS
+============================
+
+Please add the following logo files to this directory (public/logos/):
+
+1. kv1.png - Kendriya Vidyalaya logo for LIGHT MODE
+2. kv2.png - Kendriya Vidyalaya logo for DARK MODE  
+3. mdu.png - Maharshi Dayanand University logo
+4. iitm.png - IIT Madras logo
+
+REQUIREMENTS:
+- Format: PNG with transparent background
+- Size: Square images (recommended 200x200px or higher)
+- The logos will be displayed in white circular containers
+- Make sure logos are clear and high quality
+
+The component will automatically:
+- Switch between kv1.png and kv2.png based on light/dark theme
+- Display all logos with white circular backgrounds
+- Apply neon glow effects to institution names
